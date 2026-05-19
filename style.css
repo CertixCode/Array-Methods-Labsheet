@@ -1,0 +1,14 @@
+/* Custom tweaks on top of Tailwind */
+html,
+body {
+    height: 100%;
+}
+
+pre {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', 'Courier New', monospace
+}
+
+/* Make output monospace slightly smaller */
+.font-mono {
+    font-size: 0.95rem
+}
