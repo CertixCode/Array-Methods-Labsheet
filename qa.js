@@ -1,5 +1,3 @@
-// qa.js - compute solutions for each labsheet question and render the UI
-
 const qaList = [
   {
     id: 1,
